@@ -1,0 +1,18 @@
+a {
+  color: SeaGreen;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 60px;
+}
+/*nastavenie fontu cez universal selector*/
+*{
+  font-family: Calibri;
+}
+/*zmena farby, font-size a font-style h1*/
+h1 {
+  color: DarkGreen;
+  font-size: 50px;
+  font-style: italic;
+}
